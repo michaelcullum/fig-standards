@@ -37,7 +37,7 @@ As also described in the [PSR Workflow Bylaw][workflow]. The Editor, or editors,
 | 9   | [Security Disclosure][psr9]          | Lukas Kahwe Smith              | Korvin Szanto  | Larry Garfield    |
 | 10  | [Security Advisories][psr10]         | Lukas Kahwe Smith              | Larry Garfield | Korvin Szanto     |
 | 11  | [Container Interface][psr11]         | Matthieu Napoli, David Négrier | Paul M. Jones  | Jeremy Lindblom   |
-| 12  | [Extended Coding Style Guide][psr12] | Michael Cullum                 | Korvin Szanto  | Alexander Makarov |
+| 12  | [Extended Coding Style Guide][psr12] | Vacant                         | Korvin Szanto  | Alexander Makarov |
 
 ## Numerical Index
 
