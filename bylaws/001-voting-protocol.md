@@ -3,7 +3,7 @@ Voting Protocol
 
 1. Only voting members and FIG Secretaries may initiate a call for votes on a measure.
 
-2. Only voting members may vote on a measure.
+2. Only voting members, whom are in place at the beginning of a vote, may vote on a measure.
 
 3. The time limit on a vote is 14 days from the time of the call for votes, or
 until all voting members have cast their vote, whichever comes first. Votes
@@ -12,8 +12,8 @@ cast after the time limit are not valid.
 4. Votes can be +1 ("in favor"), -1 ("against"), or 0 ("abstain").
 
 5. One-third or more of the *voting members* must vote within the time limit
-for the vote to be valid. This is the equivalent of establishing a quorum. For
-example:
+for the vote to be valid. The member count should be taken from the beginning of the vote.
+This is the equivalent of establishing a quorum. For example:
 
         - If there are 20, 21, or 22 members, then 7 or more must vote within the
           time limit for the vote to be valid.
@@ -40,6 +40,20 @@ to apply it immediately for reasons outside the purview of this group.
 
 9. Responsibility for vote tallying is shared between the member who starts a vote
 and the FIG Secretaries, both of whom should confirm the result.
+
+10. FIG Members may vote on any vote defined in the bylaws, ammendments to the bylaws
+or any other measure so long as the bylaws do not cover that area and define that
+actions must be carried out in a specific way.
+
+11. All votes on ammendments to the bylaws of the PHP FIG, votes on measures not
+defined in the bylaws, acceptance votes, expulsion votes, and membership votes must have
+a two week discussion period on the mailing list.
+
+12. Errata votes, bylaw interpretation votes and entrance votes must have a five day
+discussion period on the mailing list, however a two week discussion is recommended.
+
+13. Voting members who leave during the course of a vote may still vote on that measure
+provided they were members when the vote commenced and contribute to quorum.
 
 * * *
 

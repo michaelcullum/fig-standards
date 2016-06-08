@@ -162,15 +162,18 @@ role above, perform other duties as nessasary.
 * Tallying votes
 * Tracking member project activity, and marking projects as inactive
 * Ensuring bylaws are being followed
-* Clarifying any interpretation of bylaw text (If there is lack of consensus
-between FIG Secretaries then it must be put to a full vote according to the
-standard [Voting Protocol bylaw][voting]).
 * Ensure that relevant marketing mediums (e.g. Twitter and Facebook) are kept
 professional, up to date and impartial.
 * Moderate discussions on github, the mailing list and IRC channels to ensure
 that an appropriate environment is maintained
 * Should there be a FIG meeting at a conference or other ad hoc gathering any
 Secretary in attendance should take notes to report back to the mailing list.
+* Clarifying any interpretation of bylaw text (If there is lack of consensus
+between FIG Secretaries then it must be put to a full vote according to the
+standard [Voting Protocol bylaw][voting]). These decisions are subject to lack
+of objection by voting members. All decisions must be transparent and should 2
+or more voting members object, it must go to a vote/the decision be reversed,
+whichever is more applicable.
 
 ### Access and Abilities
 
